@@ -1,0 +1,5 @@
+#Add node_modules to the .gitignore file
+node_modules
+
+#Add Environmental Variables 
+.env
